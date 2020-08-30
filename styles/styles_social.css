@@ -1,0 +1,92 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.social{
+    margin-right: 10px;
+	margin-left: 10px;
+}
+
+.search_button{
+    height: 31px;
+    width: 23px;
+    display: inline;
+    position: absolute;
+    float: none;
+    clear: none;
+    right: 6%;
+    top: 18px;
+}
+
+.search_input{
+	position:relative;
+}
+
+.main_but{
+    height: 29px;
+	
+}
+
+.magnify{
+    margin-right: -6px;
+    margin-left: -6px;
+    background-color: #FFFFFF;	
+}
+
+.form_button{
+    width: 95px;
+    height: 34px;
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+    font-weight: bold;
+    font-size: 14px;
+    border-radius: 15px;
+    background-image: -webkit-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(153,153,153,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(153,153,153,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(153,153,153,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(255,255,255,1.00) 0%,rgba(153,153,153,1.00) 100%);	
+}
+
+.home_img{
+    float: right;
+    display: inline-block;
+    height: 250px;
+    width: 325px;
+    margin-left: 20px;
+    margin-top: 5px;
+    margin-right: 18px;
+    border-radius: 23px;
+    margin-bottom: 7px;
+}
+
+.education_img{
+    width: 379px;
+    height: 266px;
+    float: right;
+    margin-left: 20px;
+    margin-bottom: 6px;
+    margin-top: 6px;
+    margin-right: 10px;
+    border-radius: 44px;
+}
+
+.about_img{
+    height: 260px;
+    width: 50%;
+    margin-left: 25%;
+    margin-right: 25%;
+    border-width: medium;
+    border-style: solid;
+    border-radius: 17px;
+}
+
+.links a{
+    text-decoration: none;
+    color: #3180F4;
+}
+
+.links li{
+    font-size: 18px;
+}
+
+.links a:hover{
+    text-decoration: underline;	
+}
